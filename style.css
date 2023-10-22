@@ -11,12 +11,7 @@ h2{
 .pink-highlight{
     color: rgb(228, 16, 157);
 }
-.haif-width{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%;
-}
+
 .haif-width img{
     width: 100%;
 }
@@ -36,13 +31,13 @@ section{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(purple,hotpink);
-    padding: 10px 20px;
+    padding: 10px 28px;
     border-radius: 10px;
     color: white;
     font-weight: 700;
     position: absolute;
-    margin-top: 30px;
-    margin-left: 184px;
+    margin-top: 66px;
+    margin-left: 185px;
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
@@ -71,4 +66,30 @@ footer p{
 }
 .center{
     text-align: center;
+}
+.haif-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.header-section {
+    padding: 28px 2px;
+    height: 18px;
+    border: 4px solid rgb(255 105 105);
+    width: 79%;
+    padding-left: 20%;
+    float: left;
+}
+.catagory {
+    text-align: center;
+    float: left;
+    /
+    height: 100%;
+    float: left;
+    /
+    width: 100%;
+    padding: left;
+    margin-right: 283px;
+    margin-top: -21px;
 }
